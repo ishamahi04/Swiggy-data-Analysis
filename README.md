@@ -96,7 +96,7 @@ The dataset contains restaurant-related information such as:
 
 1. Clone repository:
 bash
-git clone https://github.com/yourusername/swiggy-data-analysis.git
+git clone https://github.com/ishamahi04/Swiggy-data-Analysis.git
 
 
 2. Install dependencies:
